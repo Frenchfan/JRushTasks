@@ -1,4 +1,4 @@
-package com.javarush.task.task06.task0606;
+package com.javarush.task.pro.task06.task0606;
 
 /*
 Универсальный солдат

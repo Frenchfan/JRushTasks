@@ -1,4 +1,4 @@
-package com.javarush.task.task07.task0702;
+package com.javarush.task.pro.task07.task0702;
 
 /*
 Максимальное целое

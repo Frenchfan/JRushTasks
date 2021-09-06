@@ -1,4 +1,4 @@
-package com.javarush.task.task03.task0313;
+package com.javarush.task.pro.task03.task0313;
 
 public class Solution {
     public static String string1 = "Амиго";

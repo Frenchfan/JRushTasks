@@ -1,4 +1,4 @@
-package com.javarush.task.task08.task0801;
+package com.javarush.task.pro.task08.task0801;
 
 import static java.lang.Math.toRadians;
 
@@ -26,4 +26,3 @@ public class Solution {
         return tanres;
     }
 }
-

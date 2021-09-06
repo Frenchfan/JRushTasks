@@ -1,4 +1,4 @@
-package com.javarush.task.task07.task0712;
+package com.javarush.task.pro.task07.task0712;
 
 /*
 Первые объекты
@@ -28,4 +28,3 @@ public class Solution {
         Scanner scanner2 = new Scanner (System.in);
     }
 }
-

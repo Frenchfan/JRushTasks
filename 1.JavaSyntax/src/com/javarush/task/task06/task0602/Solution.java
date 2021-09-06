@@ -1,4 +1,4 @@
-package com.javarush.task.task06.task0602;
+package com.javarush.task.pro.task06.task0602;
 
 /*
 Упорядоченная информация
@@ -11,4 +11,3 @@ public class Solution {
         System.out.println("От меня вам всем приветик.");
     }
 }
-

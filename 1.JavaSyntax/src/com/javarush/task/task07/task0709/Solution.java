@@ -1,4 +1,4 @@
-package com.javarush.task.task07.task0709;
+package com.javarush.task.pro.task07.task0709;
 
 /*
 Очень правильные типы

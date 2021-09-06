@@ -1,4 +1,4 @@
-package com.javarush.task.task08.task0811;
+package com.javarush.task.pro.task08.task0811;
 
 /*
 Побитовые операции
@@ -16,4 +16,3 @@ public class Solution {
         System.out.println(x);
     }
 }
-

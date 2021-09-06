@@ -1,4 +1,4 @@
-package com.javarush.task.task09.task0902;
+package com.javarush.task.pro.task09.task0902;
 
 /*
 Литералы с плавающей точкой
@@ -13,4 +13,3 @@ public class Solution {
     public float f = 200F;
     public float g = 0.F;
 }
-

@@ -1,4 +1,4 @@
-package com.javarush.task.task09.task0910;
+package com.javarush.task.pro.task09.task0910;
 
 /*
 Кодировка Unicode

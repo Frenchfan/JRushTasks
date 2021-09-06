@@ -1,4 +1,4 @@
-package com.javarush.task.task05.task0512;
+package com.javarush.task.pro.task05.task0512;
 
 /*
 Создаем мультимассив
@@ -17,6 +17,6 @@ public class Solution {
                 }
                 System.out.println();
             }
-        }
+}
     }
 }

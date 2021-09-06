@@ -1,4 +1,4 @@
-package com.javarush.task.task03.task0312;
+package com.javarush.task.pro.task03.task0312;
 
 import java.util.Scanner;
 
@@ -18,4 +18,3 @@ public class Solution {
         System.out.println("строки разные");
     }
 }
-

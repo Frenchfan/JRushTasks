@@ -1,4 +1,4 @@
-package com.javarush.task.task08.task0803;
+package com.javarush.task.pro.task08.task0803;
 
 import java.util.Scanner;
 
@@ -30,5 +30,5 @@ public class Solution {
         }
         return array;
     }
-}
 
+}

@@ -1,4 +1,4 @@
-package com.javarush.task.task06.task0612;
+package com.javarush.task.pro.task06.task0612;
 
 /*
 У всего есть корень
@@ -14,8 +14,8 @@ public class Solution {
         String elementSqrt = "Корень квадратный для числа ";
         for (int i = 0; i < array.length; i++) {
             int element = array[i];
-            double elementSqrtresult = Math.sqrt(element);
-            System.out.println(elementSqrt + element + " равен " + elementSqrtresult);
+            double elementSqrtResult = Math.sqrt(element);
+            System.out.println(elementSqrt + element + " равен " + elementSqrtResult);
         }
     }
 }

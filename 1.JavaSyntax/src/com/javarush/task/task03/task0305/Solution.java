@@ -1,4 +1,4 @@
-package com.javarush.task.task03.task0305;
+package com.javarush.task.pro.task03.task0305;
 
 import java.util.Scanner;
 
@@ -17,6 +17,5 @@ public class Solution {
         else if (dig1==dig2) System.out.println(dig1+" "+dig2);
         else if (dig1==dig3) System.out.println(dig1+" "+dig3);
         else if (dig2==dig3) System.out.println(dig2+" "+dig3);
-
     }
 }

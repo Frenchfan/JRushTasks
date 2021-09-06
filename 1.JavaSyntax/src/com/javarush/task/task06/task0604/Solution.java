@@ -1,4 +1,4 @@
-package com.javarush.task.task06.task0604;
+package com.javarush.task.pro.task06.task0604;
 
 /*
 Ливерпульская четверка

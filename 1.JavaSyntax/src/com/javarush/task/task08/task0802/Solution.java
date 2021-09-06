@@ -1,4 +1,4 @@
-package com.javarush.task.task08.task0802;
+package com.javarush.task.pro.task08.task0802;
 
 /*
 Утильный класс: часть 2
@@ -18,4 +18,3 @@ public class Solution {
         return Math.pow(number,power);
     }
 }
-

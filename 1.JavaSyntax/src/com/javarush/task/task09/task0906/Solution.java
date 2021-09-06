@@ -1,4 +1,4 @@
-package com.javarush.task.task09.task0906;
+package com.javarush.task.pro.task09.task0906;
 
 import java.util.regex.Pattern;
 
@@ -14,7 +14,7 @@ public class Solution {
         System.out.println("Двоичное число " + binaryNumber + " равно десятичному числу " + toDecimal(binaryNumber));
     }
 
-    public static String toBinary(int decimalNumber) {
+            public static String toBinary(int decimalNumber) {
         //напишите тут ваш код
         if (decimalNumber<=0) return "";
         String binaryNumber="";
@@ -36,4 +36,3 @@ public class Solution {
         return decimalNumber;
     }
 }
-

@@ -1,4 +1,4 @@
-package com.javarush.task.task02.task0211;
+package com.javarush.task.pro.task02.task0211;
 
 /*
 Получение длины строки

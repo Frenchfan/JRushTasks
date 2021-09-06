@@ -1,4 +1,4 @@
-package com.javarush.task.task02.task0210;
+package com.javarush.task.pro.task02.task0210;
 
 /*
 С каждым разом огромнее

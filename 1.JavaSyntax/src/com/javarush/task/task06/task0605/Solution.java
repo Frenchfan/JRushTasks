@@ -1,4 +1,4 @@
-package com.javarush.task.task06.task0605;
+package com.javarush.task.pro.task06.task0605;
 
 /*
 Правильный порядок
@@ -31,4 +31,3 @@ public class Solution {
         System.out.println();
     }
 }
-

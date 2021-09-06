@@ -1,4 +1,4 @@
-package com.javarush.task.task02.task0209;
+package com.javarush.task.pro.task02.task0209;
 
 /*
 Конкатенация строк и чисел

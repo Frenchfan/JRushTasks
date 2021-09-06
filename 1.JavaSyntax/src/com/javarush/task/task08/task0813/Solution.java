@@ -1,5 +1,4 @@
-package com.javarush.task.task08.task0813;
-
+package com.javarush.task.pro.task08.task0813;
 
 /*
 Степень двойки
@@ -12,9 +11,8 @@ public class Solution {
     }
 
     public static int getPowerOfTwo(int power) {
-        int result=2;
+        int result = 2;
         result = result<<(power-1);
         return result;
     }
 }
-

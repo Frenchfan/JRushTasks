@@ -1,4 +1,6 @@
-package com.javarush.task.task08.task0806;
+package com.javarush.task.pro.task08.task0806;
+
+
 
 /*
 Импорты: Part 1
@@ -11,4 +13,3 @@ public class Solution {
         java.math.BigInteger bigInteger = new java.math.BigInteger("123");
     }
 }
-

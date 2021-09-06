@@ -1,4 +1,4 @@
-package com.javarush.task.task10.task1006;
+package com.javarush.task.pro.task10.task1006;
 
 public class HybridCar extends Car {
 

@@ -1,4 +1,4 @@
-package com.javarush.task.task08.task0817;
+package com.javarush.task.pro.task08.task0817;
 
 public class Solution {
 
@@ -9,4 +9,3 @@ public class Solution {
         System.out.println(b);
     }
 }
-

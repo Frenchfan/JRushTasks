@@ -1,4 +1,6 @@
-package com.javarush.task.task09.task0905;
+package com.javarush.task.pro.task09.task0905;
+
+import java.util.regex.Pattern;
 
 /*
 Восьмеричный конвертер
@@ -38,4 +40,3 @@ public class Solution {
         return decimalNumber;
     }
 }
-

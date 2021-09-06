@@ -1,4 +1,4 @@
-package com.javarush.task.task08.task0816;
+package com.javarush.task.pro.task08.task0816;
 
 /*
 Приоритеты
@@ -12,4 +12,3 @@ public class Solution {
     }
 
 }
-

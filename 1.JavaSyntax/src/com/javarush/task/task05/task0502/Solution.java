@@ -1,4 +1,4 @@
-package com.javarush.task.task05.task0502;
+package com.javarush.task.pro.task05.task0502;
 
 /*
 Четные и нечетные ячейки массива
@@ -27,4 +27,3 @@ public class Solution {
         System.out.println(" value = " + strings[4]);
     }
 }
-

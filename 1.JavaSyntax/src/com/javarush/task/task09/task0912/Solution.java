@@ -1,4 +1,4 @@
-package com.javarush.task.task09.task0912;
+package com.javarush.task.pro.task09.task0912;
 
 /*
 Проверка URL-адреса
@@ -31,4 +31,3 @@ public class Solution {
         else return "неизвестный";
     }
 }
-

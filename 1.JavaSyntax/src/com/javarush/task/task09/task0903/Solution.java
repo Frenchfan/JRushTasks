@@ -1,4 +1,4 @@
-package com.javarush.task.task09.task0903;
+package com.javarush.task.pro.task09.task0903;
 
 /*
 Строковые литералы

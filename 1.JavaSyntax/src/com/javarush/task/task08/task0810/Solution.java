@@ -1,4 +1,4 @@
-package com.javarush.task.task08.task0810;
+package com.javarush.task.pro.task08.task0810;
 
 import java.util.concurrent.TimeUnit;
 

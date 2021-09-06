@@ -1,4 +1,4 @@
-package com.javarush.task.task10.task1006;
+package com.javarush.task.pro.task10.task1006;
 
 /*
 Кто тут наследник?
@@ -12,4 +12,3 @@ public class Solution {
         ElectricCar electricCar = new ElectricCar();
     }
 }
-

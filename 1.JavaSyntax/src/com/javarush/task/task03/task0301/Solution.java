@@ -12,8 +12,8 @@ public class Solution {
         String warm = "на улице тепло";
         //напишите тут ваш код
         Scanner scanner = new Scanner(System.in);
-        int temp = scanner.nextInt();
+ 				    int temp = scanner.nextInt();
         if (temp<0) System.out.println(cold);
-        else System.out.println(warm);
+     				else System.out.println(warm);
     }
 }

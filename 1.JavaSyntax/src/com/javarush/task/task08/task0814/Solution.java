@@ -1,4 +1,4 @@
-package com.javarush.task.task08.task0814;
+package com.javarush.task.pro.task08.task0814;
 
 /*
 Флаги

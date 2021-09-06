@@ -1,4 +1,4 @@
-package com.javarush.task.task05.task0504;
+package com.javarush.task.pro.task05.task0504;
 
 /*
 Объединяем массивы
@@ -23,4 +23,3 @@ public class Solution {
         }
     }
 }
-

@@ -1,4 +1,4 @@
-package com.javarush.task.task08.task0804;
+package com.javarush.task.pro.task08.task0804;
 
 /*
 Randomizer
@@ -15,4 +15,3 @@ public class Solution {
         return (int) (Math.random()*99);
     }
 }
-

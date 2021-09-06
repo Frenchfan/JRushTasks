@@ -1,4 +1,4 @@
-package com.javarush.task.task05.task0505;
+package com.javarush.task.pro.task05.task0505;
 
 import java.util.Scanner;
 
@@ -28,8 +28,5 @@ public class Solution {
                 }
             }
                 }
-            }
-        }
-
-
-
+    }
+}

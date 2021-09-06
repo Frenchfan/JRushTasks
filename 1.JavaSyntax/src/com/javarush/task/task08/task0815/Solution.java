@@ -1,4 +1,4 @@
-package com.javarush.task.task08.task0815;
+package com.javarush.task.pro.task08.task0815;
 
 /*
 Логические операторы
@@ -17,4 +17,3 @@ public class Solution {
         System.out.println(number);
     }
 }
-

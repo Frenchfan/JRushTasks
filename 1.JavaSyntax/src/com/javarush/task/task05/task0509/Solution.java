@@ -1,4 +1,4 @@
-package com.javarush.task.task05.task0509;
+package com.javarush.task.pro.task05.task0509;
 
 /*
 Таблица умножения

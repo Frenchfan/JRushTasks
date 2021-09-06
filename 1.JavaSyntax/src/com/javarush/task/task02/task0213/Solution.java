@@ -1,10 +1,8 @@
-package com.javarush.task.task02.task0213;
+package com.javarush.task.pro.task02.task0213;
 
 /*
 Причешем резюме
 */
-
-import java.util.Locale;
 
 public class Solution {
 
@@ -18,5 +16,5 @@ public class Solution {
         System.out.println(("TITLE: " + title).toLowerCase());
         System.out.println(("DEGREE: " + degree).toLowerCase());
         System.out.println(("CAREER: " + career).toLowerCase());
-    }
+        }
 }

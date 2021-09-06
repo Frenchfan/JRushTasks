@@ -1,4 +1,4 @@
-package com.javarush.task.task04.task0413;
+package com.javarush.task.pro.task04.task0413;
 
 /*
 Рисуем треугольник
@@ -13,6 +13,5 @@ public class Solution {
             }
             System.out.println();
         }
-
     }
 }

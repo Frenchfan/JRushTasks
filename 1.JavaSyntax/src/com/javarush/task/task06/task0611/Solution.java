@@ -1,4 +1,4 @@
-package com.javarush.task.task06.task0611;
+package com.javarush.task.pro.task06.task0611;
 
 /*
 Анализ массивов
@@ -41,4 +41,3 @@ public class Solution {
         System.out.println();
     }
 }
-

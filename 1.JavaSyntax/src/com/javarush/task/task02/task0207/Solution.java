@@ -1,4 +1,4 @@
-package com.javarush.task.task02.task0207;
+package com.javarush.task.pro.task02.task0207;
 
 /*
 Логотип решает все

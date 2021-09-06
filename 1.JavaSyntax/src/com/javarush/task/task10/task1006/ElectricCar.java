@@ -1,4 +1,4 @@
-package com.javarush.task.task10.task1006;
+package com.javarush.task.pro.task10.task1006;
 
 public class ElectricCar extends Car {
 
@@ -6,4 +6,4 @@ public class ElectricCar extends Car {
         //напишите тут ваш код
         super("ElectricCar");
     }
-}
+ }

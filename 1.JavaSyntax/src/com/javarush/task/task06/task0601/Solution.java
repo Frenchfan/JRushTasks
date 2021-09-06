@@ -1,4 +1,4 @@
-package com.javarush.task.task06.task0601;
+package com.javarush.task.pro.task06.task0601;
 
 /*
 Разделяй понятия

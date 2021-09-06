@@ -1,4 +1,4 @@
-package com.javarush.task.task02.task0201.task0203;
+package com.javarush.task.pro.task02.task0203;
 
 /*
 Последняя цифра числа

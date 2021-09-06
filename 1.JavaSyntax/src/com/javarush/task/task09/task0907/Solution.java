@@ -1,4 +1,4 @@
-package com.javarush.task.task09.task0907;
+package com.javarush.task.pro.task09.task0907;
 
 import java.util.regex.Pattern;
 
@@ -43,5 +43,4 @@ public class Solution {
         }
         else return 0;
     }
-
 }

@@ -1,4 +1,4 @@
-package com.javarush.task.task02.task0212;
+package com.javarush.task.pro.task02.task0212;
 
 /*
 Попрошу регистр на меня не повышать!

@@ -1,4 +1,4 @@
-package com.javarush.task.task04.task0405;
+package com.javarush.task.pro.task04.task0405;
 
 /*
 Незаполненный прямоугольник
@@ -34,4 +34,3 @@ public class Solution {
         }
     }
 }
-

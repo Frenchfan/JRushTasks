@@ -1,4 +1,4 @@
-package com.javarush.task.task05.task0503;
+package com.javarush.task.pro.task05.task0503;
 
 /*
 Работаем с элементами массива

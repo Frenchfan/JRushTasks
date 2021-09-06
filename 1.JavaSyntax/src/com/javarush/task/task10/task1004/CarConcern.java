@@ -1,4 +1,4 @@
-package com.javarush.task.task10.task1004;
+package com.javarush.task.pro.task10.task1004;
 
 /*
 Жажда скорости
@@ -31,4 +31,3 @@ public class CarConcern {
         this.color="Оранжевый";
     }
 }
-

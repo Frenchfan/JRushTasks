@@ -1,4 +1,4 @@
-package com.javarush.task.task09.task0913;
+package com.javarush.task.pro.task09.task0913;
 
 /*
 Поиск в строке

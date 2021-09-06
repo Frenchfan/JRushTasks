@@ -1,4 +1,4 @@
-package com.javarush.task.task05.task0521;
+package com.javarush.task.pro.task05.task0521;
 
 /*
 Выполнение фрагмента кода

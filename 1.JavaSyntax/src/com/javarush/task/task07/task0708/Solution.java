@@ -1,4 +1,4 @@
-package com.javarush.task.task07.task0708;
+package com.javarush.task.pro.task07.task0708;
 
 /*
 Правильные типы
@@ -22,4 +22,3 @@ public class Solution {
         d=value;
     }
 }
-

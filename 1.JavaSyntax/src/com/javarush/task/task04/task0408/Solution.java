@@ -1,4 +1,4 @@
-package com.javarush.task.task04.task0408;
+package com.javarush.task.pro.task04.task0408;
 
 import java.util.Scanner;
 
@@ -18,4 +18,3 @@ public class Solution {
         System.out.println(max);
     }
 }
-

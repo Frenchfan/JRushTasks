@@ -1,24 +1,19 @@
-package com.javarush.task.task08.task0812;
+package com.javarush.task.pro.task08.task0812;
 
-class Pair {
-    private int x;
-    private int y;
+/*
+Swap по-новому
+*/
 
-    public Pair(int x, int y) {
-        this.x = x;
-        this.y = y;
-    }
+public class Solution {
+    public static void main(String[] args) {
+        /* expected output
+        x=4, y=5
+        x=5, y=4
+         */
 
-    @Override
-    public String toString() {
-        return String.format("x=%d, y=%d", x, y);
-    }
-
-    public void swap() {
-        //напишите тут ваш код
-        x ^= y;
-        y ^= x;
-        x ^= y;
+        Pair pair = new Pair(4, 5);
+        System.out.println(pair);
+        pair.swap();
+        System.out.println(pair);
     }
 }
-

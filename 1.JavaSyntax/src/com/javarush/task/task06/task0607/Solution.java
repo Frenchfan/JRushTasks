@@ -1,4 +1,4 @@
-package com.javarush.task.task06.task0607;
+package com.javarush.task.pro.task06.task0607;
 
 /*
 Добро пожаловать! Но не всем.

@@ -1,4 +1,4 @@
-package com.javarush.task.task09.task0911;
+package com.javarush.task.pro.task09.task0911;
 
 /*
 Поздравление
@@ -21,4 +21,3 @@ public class Solution {
         System.out.println(happyBirthday + congratulation);
     }
 }
-

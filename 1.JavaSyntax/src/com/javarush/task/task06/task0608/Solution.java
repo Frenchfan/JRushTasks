@@ -1,4 +1,4 @@
-package com.javarush.task.task06.task0608;
+package com.javarush.task.pro.task06.task0608;
 
 /*
 Кубический калькулятор
@@ -6,6 +6,7 @@ package com.javarush.task.task06.task0608;
 
 public class Solution {
     public static void main(String[] args) {
+
     }
 
     //напишите тут ваш код
@@ -13,4 +14,3 @@ public class Solution {
         return (long) Math.pow(digit, 3);
     }
 }
-

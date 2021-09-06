@@ -1,4 +1,4 @@
-package com.javarush.task.task09.task0915;
+package com.javarush.task.pro.task09.task0915;
 
 import java.util.Arrays;
 import java.util.StringTokenizer;
@@ -17,7 +17,7 @@ public class Solution {
     public static String[] getTokens(String query, String delimiter) {
         //напишите тут ваш код
         StringTokenizer tokenizer = new StringTokenizer(query,delimiter);
-        String[] result = new String[tokenizer.countTokens()];
+        String[] result = new String[6];
         int i = 0;
         while (tokenizer.hasMoreTokens()) {
             result[i]=tokenizer.nextToken();
@@ -26,4 +26,3 @@ public class Solution {
         return result;
     }
 }
-

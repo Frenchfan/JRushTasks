@@ -1,4 +1,4 @@
-package com.javarush.task.task08.task0809;
+package com.javarush.task.pro.task08.task0809;
 
 /*
 Counter
@@ -33,4 +33,3 @@ public class Solution {
         System.out.println(10);
     }
 }
-

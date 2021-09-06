@@ -1,4 +1,4 @@
-package com.javarush.task.task07.task0706;
+package com.javarush.task.pro.task07.task0706;
 
 /*
 Странное деление
@@ -14,4 +14,3 @@ public class Solution {
         System.out.println(b/a);
     }
 }
-

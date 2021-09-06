@@ -1,4 +1,4 @@
-package com.javarush.task.task02.task0215;
+package com.javarush.task.pro.task02.task0215;
 
 import java.util.Scanner;
 
@@ -15,6 +15,5 @@ public class Solution {
         int digit2 = scanner.nextInt();
         int digit3 = scanner.nextInt();
         System.out.println((digit1+digit2+digit3)/3);
-
     }
 }

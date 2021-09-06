@@ -1,4 +1,4 @@
-package com.javarush.task.task10.task1002;
+package com.javarush.task.pro.task10.task1002;
 
 /*
 Построим новый жилой комплекс JavaRush Towers
@@ -26,4 +26,3 @@ public class Skyscraper {
         Skyscraper skyscraperSkyline = new Skyscraper("JavaRushDevelopment");
     }
 }
-

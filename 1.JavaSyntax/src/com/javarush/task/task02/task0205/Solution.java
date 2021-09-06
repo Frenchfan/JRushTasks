@@ -1,4 +1,4 @@
-package com.javarush.task.task02.task0201.task0205;
+package com.javarush.task.pro.task02.task0205;
 
 /*
 Когда-то было 32 зуба

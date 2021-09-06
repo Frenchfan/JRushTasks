@@ -1,4 +1,4 @@
-package com.javarush.task.task06.task0603;
+package com.javarush.task.pro.task06.task0603;
 
 /*
 Любимое блюдо
@@ -21,4 +21,3 @@ public class Solution {
     }
 
 }
-

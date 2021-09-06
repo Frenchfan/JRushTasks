@@ -1,4 +1,4 @@
-package com.javarush.task.task03.task0306;
+package com.javarush.task.pro.task03.task0306;
 
 import java.util.Scanner;
 
@@ -20,4 +20,3 @@ public class Solution {
         else System.out.println(TRIANGLE_EXISTS);
     }
 }
-

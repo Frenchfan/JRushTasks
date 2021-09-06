@@ -1,4 +1,4 @@
-package com.javarush.task.task10.task1003;
+package com.javarush.task.pro.task10.task1003;
 
 /*
 Построим новый бизнес-комплекс JavaRush Business Center

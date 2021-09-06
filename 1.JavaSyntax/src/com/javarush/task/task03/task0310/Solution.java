@@ -1,4 +1,4 @@
-package com.javarush.task.task03.task0310;
+package com.javarush.task.pro.task03.task0310;
 
 import java.util.Scanner;
 
@@ -15,4 +15,3 @@ public class Solution {
         else System.out.println("число равно 5");
     }
 }
-

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.JavaSyntax/1.JavaSyntax.iml" filepath="$PROJECT_DIR$/1.JavaSyntax/1.JavaSyntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JRushTasks.iml" filepath="$PROJECT_DIR$/.idea/JRushTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/javarush.iml" filepath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/javarush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task.iml" filepath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task.iml" />
+    </modules>
+  </component>
+</project>

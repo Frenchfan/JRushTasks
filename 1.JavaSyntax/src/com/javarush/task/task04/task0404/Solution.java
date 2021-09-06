@@ -1,4 +1,4 @@
-package com.javarush.task.task04.task0404;
+package com.javarush.task.pro.task04.task0404;
 
 /*
 Заполненный прямоугольник

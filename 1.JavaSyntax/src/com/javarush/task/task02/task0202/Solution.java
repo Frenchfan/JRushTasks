@@ -1,4 +1,4 @@
-package com.javarush.task.task02.task0201.task0202;
+package com.javarush.task.pro.task02.task0202;
 
 /*
 Полнометражная картина
@@ -11,7 +11,6 @@ public class Solution {
 
         int meters = 0; //напишите тут ваш код
         meters = centimeters/100;
-
         System.out.println(meters);
     }
 }

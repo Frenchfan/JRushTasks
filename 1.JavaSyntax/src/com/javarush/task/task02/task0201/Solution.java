@@ -1,4 +1,4 @@
-package com.javarush.task.task02.task0201;
+package com.javarush.task.pro.task02.task0201;
 
 /*
 «Я по объявлению…»

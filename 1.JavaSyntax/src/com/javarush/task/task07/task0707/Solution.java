@@ -1,4 +1,4 @@
-package com.javarush.task.task07.task0707;
+package com.javarush.task.pro.task07.task0707;
 
 /*
 5 оттенков char
