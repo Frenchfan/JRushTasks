@@ -45,6 +45,17 @@ public class Beach implements Comparable<Beach> {
 
     @Override
     public synchronized int compareTo(Beach o) {
-        return 0;
+        int result = 0;
+        if (this.getQuality() - o.getQuality() > 0) {
+            result++;
+        } else if (this.getQuality() - o.getQuality() < 0) {
+            result--;
+        }
+        if (this.getDistance() - o.getDistance() > 0) {
+            result--;
+        } else if (this.getDistance() - o.getDistance() < 0) {
+            result++;
+        }
+        return result;
     }
 }
